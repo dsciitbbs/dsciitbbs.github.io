@@ -17,7 +17,7 @@
 <h2>Core Team</h2>
 
 - [Aman Pratap Singh](https://github.com/apsknight), DSC Lead
-- [Aditya Pal](https://github.com/PalAditya), Backend and ML expert
+- [Aditya Pal](https://github.com/PalAditya), Backend expert
 - [Tummala Madhav](https://github.com/), Technology Evangelist
 
 <h2>Our Projects</h2>
