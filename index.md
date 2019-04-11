@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">DSC IIT Bhubaneswar powered by Google Developers is a programming club based in IIT Bhubaneswar which aims to encourage programming cultute in and around IIT Bhubaneswar campus.
+<h4 align="center">DSC IIT Bhubaneswar powered by Google Developers is a programming club based in IIT Bhubaneswar which aims to encourage programming culture in and around IIT Bhubaneswar campus.
 </h4>
 
 <h2>News and Updates</h2>
@@ -22,7 +22,7 @@
 
 <h2>Our Projects</h2>
 
-- To be announcd!
+- To be announced!
 
 ---
 Find us on [GitHub](https://github.com/dsciitbbs) and [Medium](https://medium.com/dsc-iit-bhubaneswar)
