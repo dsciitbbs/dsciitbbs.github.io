@@ -26,7 +26,7 @@
 
 <h2>Medium Stories </h2>
 
-- To be written here
+- [Hello, World: The origin story of DSC, IIT Bhubaneswar](https://medium.com/dsc-iit-bhubaneswar/hello-world-the-origin-story-of-dsc-iit-bhubaneswar-ca4753757d3f)
 
 ---
 Find us on [GitHub](https://github.com/dsciitbbs) and [Medium](https://medium.com/dsc-iit-bhubaneswar)
