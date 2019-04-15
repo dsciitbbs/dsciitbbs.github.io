@@ -25,6 +25,7 @@
 <h2>Our Projects</h2>
 
 - [ACL - Attendance on Command Line](https://dsciitbbs.github.io/acl)
+- [piesAndBars - A graphical representation of the grade distribution in IIT Bhubaneswar over the years](https://github.com/dsciitbbs/piesAndBars)
 
 <h2>Medium Stories </h2>
 
