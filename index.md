@@ -19,6 +19,8 @@
 - [Aman Pratap Singh](https://github.com/apsknight), DSC Lead
 - [Aditya Pal](https://github.com/PalAditya), Backend expert
 - [Tummala Madhav](https://github.com/MadhavChoudhary), Technology Evangelist
+- [Atharva Kulkarni](https://github.com/IronVenom), Aspiring SWE / Full Stack Dev / Python Developer
+
 
 <h2>Our Projects</h2>
 
