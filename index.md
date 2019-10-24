@@ -16,11 +16,11 @@
 
 <h2>Core Team</h2>
 
-- [Saksham Arneja] (https://github.com/arnejasaksham), DSC Lead
+- [Saksham Arneja](https://github.com/arnejasaksham), DSC Lead
 - [Aman Pratap Singh](https://github.com/apsknight), DSC Founding Developer
 - [Aditya Pal](https://github.com/PalAditya), Backend expert
 - [Tummala Madhav](https://github.com/MadhavChoudhary), Technology Evangelist
-- [Pullak Barik] (https://github.com/TipsByPullak), Part-time Advisor/Contributor
+- [Pullak Barik](https://github.com/TipsByPullak), Part-time Advisor/Contributor
 - [Atharva Kulkarni](https://github.com/IronVenom), Aspiring SWE / Full Stack Dev / Python Developer
 
 
